@@ -1,0 +1,242 @@
+{
+  "2011": {
+    "occlusion": 4,
+    "psychology_and_behavior": 1,
+    "nutrition": 1,
+    "diagnosis_and_treatment_planning": 7,
+    "appliances": 6,
+    "retention_and_relapse": 3,
+    "imaging_and_radiology": 4,
+    "esthetics": 3,
+    "tissue_response": 2,
+    "uncategorized": 7,
+    "cleft_lip_and_palate": 3,
+    "malocclusion": 3,
+    "growth_and_development": 8,
+    "temporomandibular_joint": 1,
+    "research_methods": 1,
+    "genetics": 1,
+    "craniofacial_growth": 2,
+    "biomechanics": 3,
+    "surgical_orthodontics": 1
+  },
+  "2012": {
+    "genetics": 2,
+    "psychology_and_behavior": 1,
+    "research_methods": 1,
+    "appliances": 9,
+    "nutrition": 1,
+    "growth_and_development": 6,
+    "occlusion": 5,
+    "craniofacial_growth": 1,
+    "esthetics": 2,
+    "uncategorized": 16,
+    "biomechanics": 4,
+    "diagnosis_and_treatment_planning": 5,
+    "cleft_lip_and_palate": 3,
+    "retention_and_relapse": 1,
+    "temporomandibular_joint": 3,
+    "imaging_and_radiology": 1
+  },
+  "2013": {
+    "growth_and_development": 5,
+    "genetics": 2,
+    "occlusion": 7,
+    "research_methods": 1,
+    "diagnosis_and_treatment_planning": 5,
+    "esthetics": 1,
+    "surgical_orthodontics": 2,
+    "uncategorized": 15,
+    "biomechanics": 2,
+    "imaging_and_radiology": 1,
+    "cleft_lip_and_palate": 3,
+    "nutrition": 2,
+    "tissue_response": 1,
+    "malocclusion": 5,
+    "appliances": 1,
+    "retention_and_relapse": 2
+  },
+  "2014": {
+    "growth_and_development": 12,
+    "cleft_lip_and_palate": 3,
+    "occlusion": 5,
+    "uncategorized": 19,
+    "research_methods": 1,
+    "craniofacial_growth": 1,
+    "imaging_and_radiology": 2,
+    "nutrition": 2,
+    "temporomandibular_joint": 2,
+    "diagnosis_and_treatment_planning": 3,
+    "esthetics": 1,
+    "malocclusion": 3,
+    "biomechanics": 4,
+    "surgical_orthodontics": 1,
+    "appliances": 7
+  },
+  "2015": {
+    "genetics": 1,
+    "occlusion": 9,
+    "craniofacial_growth": 2,
+    "uncategorized": 21,
+    "growth_and_development": 10,
+    "diagnosis_and_treatment_planning": 7,
+    "imaging_and_radiology": 1,
+    "biomechanics": 4,
+    "retention_and_relapse": 2,
+    "temporomandibular_joint": 2,
+    "surgical_orthodontics": 2,
+    "esthetics": 2,
+    "appliances": 5,
+    "malocclusion": 1,
+    "research_methods": 1
+  },
+  "1990": {
+    "biomechanics": 1,
+    "occlusion": 1,
+    "uncategorized": 1,
+    "appliances": 2
+  },
+  "1991": {
+    "diagnosis_and_treatment_planning": 1,
+    "occlusion": 1,
+    "uncategorized": 1
+  },
+  "1992": {
+    "growth_and_development": 2,
+    "nutrition": 1,
+    "biomechanics": 1,
+    "imaging_and_radiology": 1,
+    "cleft_lip_and_palate": 1,
+    "surgical_orthodontics": 1,
+    "uncategorized": 1
+  },
+  "1993": {
+    "growth_and_development": 1,
+    "diagnosis_and_treatment_planning": 2,
+    "occlusion": 1,
+    "uncategorized": 5,
+    "appliances": 1
+  },
+  "1994": {
+    "growth_and_development": 1,
+    "occlusion": 1,
+    "uncategorized": 2
+  },
+  "1995": {
+    "growth_and_development": 2,
+    "nutrition": 1,
+    "biomechanics": 1,
+    "uncategorized": 2,
+    "occlusion": 1
+  },
+  "1996": {
+    "growth_and_development": 1,
+    "uncategorized": 2,
+    "malocclusion": 1,
+    "occlusion": 1,
+    "retention_and_relapse": 1
+  },
+  "1997": {
+    "growth_and_development": 2,
+    "uncategorized": 1,
+    "esthetics": 1,
+    "appliances": 1
+  },
+  "1998": {
+    "growth_and_development": 1,
+    "occlusion": 1,
+    "uncategorized": 1,
+    "diagnosis_and_treatment_planning": 1,
+    "appliances": 2,
+    "esthetics": 1,
+    "biomechanics": 1
+  },
+  "1999": {
+    "occlusion": 2,
+    "growth_and_development": 1,
+    "appliances": 2,
+    "cleft_lip_and_palate": 1,
+    "surgical_orthodontics": 1,
+    "nutrition": 1,
+    "craniofacial_growth": 1,
+    "uncategorized": 2,
+    "malocclusion": 2
+  },
+  "2000": {
+    "diagnosis_and_treatment_planning": 3,
+    "biomechanics": 5,
+    "growth_and_development": 4,
+    "retention_and_relapse": 1,
+    "occlusion": 2,
+    "uncategorized": 4,
+    "appliances": 1,
+    "cleft_lip_and_palate": 1,
+    "surgical_orthodontics": 1
+  },
+  "2002": {
+    "growth_and_development": 1,
+    "occlusion": 1,
+    "appliances": 1
+  },
+  "2003": {
+    "growth_and_development": 1,
+    "occlusion": 1,
+    "imaging_and_radiology": 1,
+    "appliances": 1,
+    "uncategorized": 3
+  },
+  "2004": {
+    "growth_and_development": 3,
+    "uncategorized": 3,
+    "temporomandibular_joint": 1,
+    "nutrition": 1,
+    "genetics": 1,
+    "occlusion": 2,
+    "biomechanics": 1,
+    "retention_and_relapse": 1,
+    "esthetics": 2
+  },
+  "2005": {
+    "appliances": 1,
+    "uncategorized": 2
+  },
+  "2006": {
+    "growth_and_development": 1,
+    "nutrition": 1,
+    "genetics": 1,
+    "occlusion": 1,
+    "retention_and_relapse": 1,
+    "appliances": 1,
+    "uncategorized": 2
+  },
+  "2007": {
+    "uncategorized": 6,
+    "growth_and_development": 1,
+    "temporomandibular_joint": 1,
+    "occlusion": 1
+  },
+  "2008": {
+    "uncategorized": 6,
+    "growth_and_development": 1,
+    "esthetics": 1,
+    "appliances": 1
+  },
+  "2009": {
+    "growth_and_development": 4,
+    "temporomandibular_joint": 1,
+    "uncategorized": 7,
+    "tissue_response": 1,
+    "cleft_lip_and_palate": 1,
+    "imaging_and_radiology": 1,
+    "diagnosis_and_treatment_planning": 1
+  },
+  "2010": {
+    "diagnosis_and_treatment_planning": 2,
+    "appliances": 1,
+    "esthetics": 3,
+    "uncategorized": 6,
+    "retention_and_relapse": 2,
+    "occlusion": 1,
+    "malocclusion": 1
+  }
+}
